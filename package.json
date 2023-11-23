@@ -1,0 +1,14 @@
+{
+  "name": "wx",
+  "private": true,
+  "description": "VChart 微信小程序示例",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vant/weapp": "^1.10.25",
+    "miniprogram-api-typings": "^2.8.3-1"
+  }
+}

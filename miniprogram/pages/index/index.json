@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "chart demo",
+  "usingComponents": {
+    "vchart": "../chart/index"
+  }
+}
